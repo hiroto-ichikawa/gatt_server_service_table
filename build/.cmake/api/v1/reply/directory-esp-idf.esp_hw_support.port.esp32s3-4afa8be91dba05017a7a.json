@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/esp_hw_support/port/esp32s3",
+		"source" : "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_hw_support/port/esp32s3"
+	}
+}

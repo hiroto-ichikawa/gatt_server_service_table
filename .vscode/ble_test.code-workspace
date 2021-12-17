@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "c",
+			"functional": "c",
+			"*.ipp": "c",
+			"esp_gap_ble_api.h": "c",
+			"esp_gatt_common_api.h": "c",
+			"esp_bt_main.h": "c",
+			"esp_gatts_api.h": "c",
+			"random": "c",
+			"esp_bt.h": "c",
+			"user_analogoutput.h": "c"
+		}
+	}
+}

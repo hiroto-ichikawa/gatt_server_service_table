@@ -1,0 +1,120 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/mbedtls",
+			"paths" : 
+			[
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aes.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aesni.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/arc4.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/aria.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/asn1write.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/base64.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bignum.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/blowfish.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/bn_mul.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/camellia.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ccm.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/certs.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/chacha20.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/chachapoly.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cipher_internal.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/cmac.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/compat-1.3.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ctr_drbg.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/debug.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/des.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/dhm.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdh.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecdsa.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecjpake.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ecp_internal.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/entropy.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/entropy_poll.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/gcm.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/havege.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/hkdf.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/hmac_drbg.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md2.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md4.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md5.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/md_internal.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/memory_buffer_alloc.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/nist_kw.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/padlock.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pem.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pk_internal.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs11.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs12.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs5.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_time.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/platform_util.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/poly1305.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ripemd160.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/rsa_internal.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha1.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha256.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/sha512.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_cache.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_cookie.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_internal.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ticket.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/threading.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/timing.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/version.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_csr.h",
+				"/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include/mbedtls/xtea.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "esp-idf/mbedtls/mbedtls/include",
+		"source" : "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/mbedtls/mbedtls/include"
+	}
+}

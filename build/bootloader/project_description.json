@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/tmc_healthcare_dev_02/esp/gatt_server_service_table/build/bootloader",
+    "config_file":        "/Users/tmc_healthcare_dev_02/esp/gatt_server_service_table/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-beta1-183-gf23dcd3555",
+    "target":             "esp32s3",
+    "rev":                "",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s3-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/efuse/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp32s3/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_common/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_hw_support/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_system/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/freertos/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/hal/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/log/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/newlib/Kconfig;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/bootloader/Kconfig.projbuild;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_rom/Kconfig.projbuild;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/tmc_healthcare_dev_02/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s3", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/bootloader", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/bootloader_support", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/efuse", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp32s3", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_common", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_hw_support", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_rom", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esp_system", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/esptool_py", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/freertos", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/hal", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/log", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/bootloader/subproject/main", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/newlib", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/partition_table", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/soc", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/spi_flash", "/Users/tmc_healthcare_dev_02/esp/esp-idf/components/xtensa", "" ]
+}
